@@ -1,0 +1,32 @@
+{
+  "title": "Multi-level framework for scientific writing \u2014 companion and prompt library",
+  "description": "<p>A companion to Andreas Trabesinger's <em>Multi-level framework for scientific writing</em> (Version 1.4), published on Zenodo (DOI: 10.5281/zenodo.18148137). That document sets out four hierarchical levels of scientific writing \u2014 manuscript, section, paragraph/sentence, word \u2014 as a single-page visual reference.</p><p>This companion expands each level into full checklists for direct use by writers and editors, and converts every checklist item into a ready-to-use prompt for AI-assisted writing and editing. The prompts are written generically and work with any LLM-based assistant.</p><p>This release corresponds to Framework v1.4. See the linked repository for the current, editable version.</p>",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    {
+      "name": "Trabesinger, Andreas",
+      "affiliation": "Reinschrift Science Communication",
+      "orcid": "0000-0003-3078-8399"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "keywords": [
+    "scientific writing",
+    "science communication",
+    "manuscript editing",
+    "grant writing",
+    "prompt engineering",
+    "AI-assisted writing",
+    "editorial framework"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18148137",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    }
+  ],
+  "notes": "Companion document to the Multi-level framework for scientific writing (v1.4). Please cite alongside the framework's concept DOI: 10.5281/zenodo.18148137, which always resolves to the latest version."
+}
